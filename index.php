@@ -127,16 +127,6 @@
             }
             return $status;
         }
-        // echo "<pre>";
-        // var_dump($studentInformation[2]["subjects"]);
-        // echo "</pre>";
-        // $sum = 0;
-        // foreach ($studentInformation[2]["subjects"] as $subjectName => $grade) {
-        //     $sum = $sum + $grade;
-        // }
-        // echo $sum . "<br>";
-        // $average = $sum/3;
-        // echo $average . "<br>";
         echo "This is the list of students:";
         ?>
     </h2>
